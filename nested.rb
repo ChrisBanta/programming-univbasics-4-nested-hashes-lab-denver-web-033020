@@ -110,7 +110,7 @@ def changing_alan
       }
     }
 		programmer_hash[:alan_kay] = {
-			known for => "GUI"
+			known_for => "GUI"
 		}
 		programmer_hash
 end
